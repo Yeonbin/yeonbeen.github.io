@@ -6,23 +6,18 @@
     text-align: center;
 }
 
-#bgImage {
-    position: absolute;
-    left: 0;
-    top: 0;
-        max-width: 100%;
-    min-width: 1880px;;
-    max-height: 1400px;
-    min-height: 1200px;
-    z-index: -5;
-    filter: brightness(30%);
+#bgImage{
+    position:absolute;
+    left:0;
+    top:0;
+	width:100%;
+    z-index:-5;
 }
 
 .mm-clock{
     text-align: center;
-   
     color: black;
-    padding: -100px;
+    
 }
 
 

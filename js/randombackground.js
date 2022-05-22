@@ -10,7 +10,7 @@ const images = [
 const viewImage = images[Math.floor(Math.random() * images.length)];
 
 const bgImage = document.createElement("img");
-bgImage.setAttribute("id", "bimage");
+bgImage.setAttribute("id", "bgImage");
 bgImage.setAttribute("style", "position:relative");
 
 bgImage.src = `img/${viewImage}`;

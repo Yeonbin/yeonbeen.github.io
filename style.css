@@ -1,0 +1,24 @@
+.hidden {
+    display: none;
+}
+.mm-clock{
+    width: 100%;
+    text-align: center;
+}
+#randomQ {
+    text-align: center;
+    display: inline-table; 
+    width: 100%;
+    
+}
+
+#randomA {
+    text-align: center;
+    display: inline-table;
+    width: 100%;
+}
+
+#bimage {
+    width: 100%;
+    
+}

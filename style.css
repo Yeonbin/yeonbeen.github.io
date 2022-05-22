@@ -1,10 +1,31 @@
 .hidden {
     display: none;
 }
-.mm-clock{
-    width: 100%;
+
+#login-form {
     text-align: center;
 }
+
+#bgImage {
+    position: absolute;
+    left: 0;
+    top: 0;
+        max-width: 100%;
+    min-width: 1880px;;
+    max-height: 1400px;
+    min-height: 1200px;
+    z-index: -5;
+    filter: brightness(30%);
+}
+
+.mm-clock{
+    text-align: center;
+   
+    color: black;
+    padding: -100px;
+}
+
+
 #randomQ {
     text-align: center;
     display: inline-table; 
@@ -18,7 +39,11 @@
     width: 100%;
 }
 
-#bimage {
-    width: 100%;
-    
+#todo-list{
+    text-align: center;
 }
+
+#todo-form{
+    text-align: center;
+}
+    
